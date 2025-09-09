@@ -24,7 +24,6 @@ Admin paneli üzerinden içerikler düzenlenebilir
 Ekonomi, Spor, Teknoloji ve Sağlık olmak üzere 4 ana kategori
 
 Haberler etiketlenebilir
-<img width="1816" height="732" alt="Ekran Alıntısı" src="https://github.com/user-attachments/assets/eee373d3-935a-4dfe-ae00-d867479ae4db" />
 
 🌐 Kullanıcı Arayüzü
 
@@ -40,12 +39,11 @@ Backend: ASP.NET Core
 
 Frontend: HTML5, CSS3, Bootstrap, JavaScript
 
-Veritabanı: MSSQL
+Veritabanı:  MSSQL
 
 Editor: CKEditor
 
 API: Ücretsiz haber API 
-
 
 📩 İletişim
 
@@ -59,4 +57,19 @@ Kullanıcıların gönderdiği mesajlara admin panelinden erişilir ve cevaplana
  Kullanıcı yorum sistemi
 
  Haberler için görsel yükleme
+
+📷 Projenin Videosu 
+
+
+https://github.com/user-attachments/assets/3ff1c099-3a14-43ec-9410-7b31b3a9eea3
+
+
+
+https://github.com/user-attachments/assets/a5281823-9a03-49cb-aff7-c75222900c48
+
+
+
+
+https://github.com/user-attachments/assets/010c6307-cffd-4c05-a0f5-b5ed360b5774
+
 
